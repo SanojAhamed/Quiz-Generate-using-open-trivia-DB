@@ -1,4 +1,4 @@
-# Quiz Generator Using Open Trivia DB API
+# Quiz Generater Using Open Trivia DB API
 
 ![image](https://github.com/SanojAhamed/Quiz-Generate-using-open-trivia-DB/assets/97176600/59890f5f-0b5a-4af9-843c-021b1879044c)
 
