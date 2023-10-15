@@ -28,7 +28,7 @@ To start using the Quiz Generator, follow these steps:
 - Open Trivia DB API
 
 ## Usage
-Feel free to explore the Quiz Generator, create your quizzes, and challenge your friends or colleagues. You can also customize and extend the project to suit your specific requirements or use it as a learning resource to build similar interactive platforms.
+Feel free to explore the Quiz Generator. You can also customize and extend the project to suit your specific requirements or use it as a learning resource to build similar interactive platforms.
 
 ## Contributing
 Contributions to this project are highly encouraged! Whether you want to enhance the user interface, add new features, improve functionality, or fix bugs, your contributions are valuable. Please open an issue or submit a pull request if you have any ideas or improvements to share.
